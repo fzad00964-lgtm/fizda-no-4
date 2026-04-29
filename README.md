@@ -1,21 +1,6 @@
 ## ⚠️ هشدار
 
-فورک کردن این پروژه (به‌خصوص اگر تعداد زیادی کاربر دقیقاً همین کار را انجام دهند) **ممکن است ریسک محدودسازی/بن شدن اکانت‌ها را بالا ببرد**. اگر می‌خواهید ریسک کمتر باشد، پیشنهاد می‌شود از **گزینه B (Netlify CLI بدون فورک)** استفاده کنید.
-
----
-
-[English🌎](https://github.com/avacocloud/netlify-XHHTP/blob/main/README.md) | [فارسی🇮🇷](https://github.com/avacocloud/netlify-XHHTP/blob/main/READMEfa.md) | [Telegram](https://t.me/avaco_cloud)
-
-# Netlify‑XHTTP
-
-یک پروکسی سبک و جریان‌محور (streaming) برای ترافیک VLESS + XHTTP با استفاده از **Netlify Edge Functions**.
-
-> فورک کنید، به گیت‌هاب متصل شوید، یک متغیر محیطی تنظیم کنید و در ۶۰ ثانیه راه‌اندازی شوید – محدودیت‌های پلن رایگان Netlify به‌صورت **Credit-based** است و ممکن است تغییر کند (جزئیات: https://www.netlify.com/pricing/).
-
-این پروژه با الهام از [Vercel‑XHTTP](https://github.com/avaco-cloud/Vercel-XHTTP) ساخته شده و جایگزینی تقریباً بدون تغییر برای نسخه‌ی Vercel ارائه می‌دهد. تمام درخواست‌های ورودی – از جمله WebSocket و داده‌های جریانی – را به سرور شخصی Xray شما ارسال می‌کند، دقیقاً مانند نسخه‌ی اصلی، اما روی شبکه‌ی جهانی Netlify.
-
----
-
+فورک کردن این پروژه (به‌خصوص اگر تعداد زیادی کاربر دقیقاً همین کار را انجام دهند) **
 ## ✨ چرا Netlify‑XHTTP؟
 
 | ویژگی | Vercel‑XHTTP (اصلی) | Netlify‑XHTTP (این پروژه) |
